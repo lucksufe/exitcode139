@@ -1,0 +1,207 @@
+LightSphere VRayLight_96@light_96 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(0.3163821, 0, 0), Vector(0, 0.3163821, 0), Vector(0, 0, 0.3163821)), Vector(0.1618044823408127, -0.00275919889099896, 0.04588028788566589));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
+LightSphere VRayLight_99@light_99 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(-0.158191, -0.2739949, 0), Vector(0.2739949, -0.158191, 0), Vector(0, 0, 0.3163821)), Vector(-0.08325575292110443, -0.1387328505516052, 0.04588028788566589));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
+LightSphere VRayLight_100@light_100 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(-0.158191, 0.2739949, 0), Vector(-0.2739949, -0.158191, 0), Vector(0, 0, 0.3163821)), Vector(-0.0784822478890419, 0.1414823532104492, 0.04588028788566589));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
+LightSphere VRayLight_101@light_101 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(0.3163821, 0, 0), Vector(0, 0.3163821, 0), Vector(0, 0, 0.3163821)), Vector(0.2838715016841888, -0.002759197261184454, 0.0100051537156105));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
+LightSphere VRayLight_102@light_102 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(0.158191, -0.2739949, 0), Vector(0.2739949, 0.158191, 0), Vector(0, 0, 0.3163821)), Vector(0.1395600736141205, -0.2472019642591476, 0.0100051537156105));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
+LightSphere VRayLight_103@light_103 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(-0.158191, -0.2739949, 0), Vector(0.2739949, -0.158191, 0), Vector(0, 0, 0.3163821)), Vector(-0.1442892849445343, -0.2444459944963455, 0.0100051537156105));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
+LightSphere VRayLight_104@light_104 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(-0.3163821, 2.7659e-08, 0), Vector(-2.7659e-08, -0.3163821, 0), Vector(0, 0, 0.3163821)), Vector(-0.2838272154331207, 0.002752767177298665, 0.0100051537156105));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
+LightSphere VRayLight_105@light_105 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(-0.158191, 0.2739949, 0), Vector(-0.2739949, -0.158191, 0), Vector(0, 0, 0.3163821)), Vector(-0.1395157724618912, 0.2471954971551895, 0.0100051537156105));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
+LightSphere VRayLight_106@light_106 {
+  enabled=1;
+  transform=Transform(Matrix(Vector(0.158191, 0.2739949, 0), Vector(-0.2739949, 0.158191, 0), Vector(0, 0, 0.3163821)), Vector(0.1443335264921188, 0.2444395273923874, 0.0100051537156105));
+  color=Color(1, 0.8501627, 0.6187814);
+  shadows=1;
+  shadowBias=0.02;
+  cutoffThreshold=0.001;
+  affectDiffuse=1;
+  affectSpecular=1;
+  nsamples=1;
+  diffuse_contribution=1;
+  specular_contribution=1;
+  units=0;
+  intensity=0.8;
+  subdivs=8;
+  storeWithIrradianceMap=0;
+  invisible=1;
+  affectReflections=1;
+  noDecay=0;
+  objectID=0;
+  radius=0.09168678;
+}
+
